@@ -1,12 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 4.8.0.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Dec 3, 2020 at 04:19 PM
--- Server version: 10.1.32-MariaDB
--- PHP Version: 5.6.36
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
@@ -126,13 +117,13 @@ CREATE TABLE `update_case` (
 --
 
 INSERT INTO `update_case` (`c_id`, `d_o_u`, `case_update`) VALUES
-(1, '2018-12-17 10:32:06', 'Criminal Verified'),
-(1, '2018-12-17 10:32:12', 'Criminal Caught'),
-(1, '2018-12-17 10:32:15', 'Criminal Interrogated'),
-(1, '2018-12-17 10:32:21', 'Criminal Accepted the Crime'),
-(1, '2018-12-17 10:32:26', 'Criminal Charged'),
-(1, '2018-12-17 10:32:51', 'The case has been moved to Court.'),
-(1, '2018-12-17 10:32:59', 'Criminal Verified');
+(1, '2020-12-2 10:32:06', 'Criminal Verified'),
+(1, '2020-12-2 10:32:12', 'Criminal Caught'),
+(1, '2020-12-2 10:32:15', 'Criminal Interrogated'),
+(1, '2020-12-2 10:32:21', 'Criminal Accepted the Crime'),
+(1, '2020-12-2 10:32:26', 'Criminal Charged'),
+(1, '2020-12-2 10:32:51', 'The case has been moved to Court.'),
+(1, '2020-12-2 10:32:59', 'Criminal Verified');
 
 -- --------------------------------------------------------
 
