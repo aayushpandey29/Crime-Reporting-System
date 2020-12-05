@@ -32,7 +32,7 @@ CREATE TABLE `complaint` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data for table `complaint`
+-- Dumping data for table `complaints`
 --
 
 INSERT INTO `complaint` (`c_id`, `a_no`, `location`, `type_crime`, `d_o_c`, `description`, `inc_status`, `pol_status`, `p_id`) VALUES
