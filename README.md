@@ -9,6 +9,6 @@ We created a website with 4 functionalities which includes login pages for user,
 
 • The police office can update the case from the police login portal and update the status of case such as fir filed, criminal identified, criminal caught etc.
 
-• From station in charge portal all the cases that have been to assigned to the policer officers of that station can be viewed from this portal we can also add police officers to that police station
+• From station in charge portal all the cases that have been to assigned to the police officers of that station can be viewed from this portal we can also add police officers to that police station
 
 • From headquarter portal we can add police station to different areas and view all the cases
