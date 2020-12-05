@@ -7,7 +7,7 @@ We created a website with 4 functionalities which includes login pages for user,
 
 • The case was then assigned randomly to a police officer of the nearest police station
 
-• The police office can update the case from the police login portal and update the status of case such as fir filed, criminal identified, criminal caught etc.
+• The police officer can update the case from the police login portal and update the status of case such as fir filed, criminal identified, criminal caught etc.
 
 • From station in charge portal all the cases that have been to assigned to the police officers of that station can be viewed from this portal we can also add police officers to that police station
 
